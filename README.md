@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Perkenalkan nama saya **Robiul Awal**. Saya seorang **Mahasiswa** di [Universitas Negeri Yogyakarta](https://www.uny.ac.id/). Saya sedang menempuh S1-Matematika dengan konsentrasi pada bidang komputer di UNY. Jika kamu tertarik untuk berkenalan denganku, berikut akun [Github](https://github.com/robbyulawal11/)ku ya.
+My name is **Robiul Awal**. I am a **student** at [Yogyakarta State University](https://www.uny.ac.id/). I am currently pursuing a Bachelor's degree in Mathematics with a concentration in computer science at UNY. If you'd like to connect with me, feel free to visit my [GitHub](https://github.com/robbyulawal11/) profile.
 
 ### Github Statistic
 <p align="left">
